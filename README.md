@@ -31,5 +31,6 @@ to {path} {path}/ /index.php?{query}
 OctoberCMS root: './caddy/cms', all works OK on my Windows PC and OctoberCMS with embedded sqlite storage (Apache, Nginx - evil...it is very hard to tune for non admin users:)
 
 Best regards, your Max Barulin, aka Linkonoid (https://github.com/linkonoid)
+
 P.S. I write applications in the languages of Golang, Freepascal/Lazarus, Dart (flutter), and PHP.
 If you need to write a plugin for the caddy server, OctoberCMS, a visual app on Golang or Lazarus - write to me on mail: max@linkonoid.com
