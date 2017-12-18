@@ -2,20 +2,16 @@ Binds domain to theme and page for OctoberCMS (Mdomains v1.0.1)
 ===============================================================
 
 Features:
-
-    Register cms-pages for domain
-    Register default theme for domain
-    Filter which domains can use backend
-    Best way for create multiples landings on one installations OctoberCMS
+- Register cms-pages for domain
+- Register default theme for domain
+- Filter which domains can use backend
+- Best way for create multiples landings on one installations OctoberCMS
 
 Announcement Mdomains v1.0.2:
-
-    In version 1.0.2 added works with static-pages Rainlab.Pages
-    Test in production
-
-Announcement FREE CaddyWinPHPServer (Caddy server + PHP7 in FastCGI mode + OctoberCMS & Sqlite for storage this CMS)
+-In version 1.0.2 added works with static-pages Rainlab.Pages
 
 Greetings to all PHP OctoberCMS developers!
+Announcement FREE CaddyWinPHPServer (Caddy server + PHP7 in FastCGI mode + OctoberCMS & Sqlite for storage this CMS)
 
 Today in an hour sketched a prototype of a Windows server based on the Caddy server for PHP-developers on OctoberCMS (Caddy server + PHP7 in FastCGI mode + OctoberCMS & Sqlite for storage this CMS). Assembly can also be used in production, works stably (this is Caddy && Golang!). Its free for all on Github: https://github.com/linkonoid/caddywinphpserver
 
