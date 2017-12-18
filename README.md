@@ -8,7 +8,7 @@ Features:
 - Best way for create multiples landings on one installations OctoberCMS
 
 Announcement Mdomains v1.0.2:
--In version 1.0.2 added works with static-pages Rainlab.Pages
+- In version 1.0.2 added works with static-pages Rainlab.Pages
 
 Greetings to all PHP OctoberCMS developers!
 Announcement FREE CaddyWinPHPServer (Caddy server + PHP7 in FastCGI mode + OctoberCMS & Sqlite for storage this CMS)
