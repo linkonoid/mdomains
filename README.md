@@ -20,7 +20,6 @@ For correct work, bind all domains in configurable web-server file to OctoberCMS
 
 Updates:
 
-v1.0.1 - Initialize plugin
-v1.0.2 - Adds work with Rainlab.Pages. Fixes little trubles with themes in domain settings.
-v1.0.3 - Fixes trubles with protected variables in StaticPages support. Little code refactoring.
-
+- v1.0.1 - Initialize plugin
+- v1.0.2 - Adds work with Rainlab.Pages. Fixes little trubles with themes in domain settings.
+- v1.0.3 - Fixes trubles with protected variables in StaticPages support. Little code refactoring.
