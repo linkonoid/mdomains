@@ -3,9 +3,9 @@ Binds domain to theme and page for OctoberCMS (Mdomains v1.0.3)
 
 LIVE DEMO available on http://linkonoid.com (for protecte code it`s no full version - this demo only for static pages):
 
-Frontend domain 1: http://test1.linkonoid.com
-Frontend domain 2: http://test2.linkonoid.com
-Backend (admin/admin): http://linkonoid.com/backend/backend/auth/signin
+- Frontend domain 1: http://test1.linkonoid.com
+- Frontend domain 2: http://test2.linkonoid.com
+- Backend (admin/admin): http://linkonoid.com/backend/backend/auth/signin
 
 Features:
 
