@@ -1,10 +1,10 @@
 Binds domain to theme and page for OctoberCMS (Mdomains v1.0.5)
 ===============================================================
 
-LIVE DEMO for 3 different installed themes available on http://linkonoid.com (it` full current version 1.0.5 - works on Linux Caddy-server in production mode and use SQLite-storage):
+LIVE DEMO for 3 different installed themes available on https://test.linkonoid.com (it` full current version 1.0.5 - works on Linux Caddy-server in production mode and use SQLite-storage):
 
-- Front-end base OctoberCms domain on current active theme: http://linkonoid.com
-- Back-end (admin/admin): http://linkonoid.com/backend/backend/auth/signin
+- Front-end base OctoberCms domain on current active theme: https://test.linkonoid.com
+- Back-end (admin/admin): https://test.linkonoid.com/backend/backend/auth/signin
 
 Attention!!! You need to understand that in order to use this plug-in, you must first register DNS-records A or CNAME and writes virtual hosts on the server (all domains must be registered in the server configuration as virtual hosts with the same parameters as the primary domain). 
 
